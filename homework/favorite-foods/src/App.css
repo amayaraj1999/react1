@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.food-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.food-item {
+  margin: 10px;
+}
+
+.food-name {
+  margin-right: 10px;
+}
+
+.message {
+  color: darkblue;
+  margin-top: 20px;
+}
