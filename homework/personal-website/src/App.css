@@ -1,0 +1,11 @@
+/* App.css */
+.active-link {
+  color: blue !important;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.nav-link {
+  margin: 0 15px;
+}
+
